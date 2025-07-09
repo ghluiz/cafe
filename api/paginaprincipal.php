@@ -115,7 +115,6 @@ font-size:45px;
 <a href= "sucesso.php">
 <button class="buttonstock" >Gestão de Estoque</button>
 </a>
-<p>echo $nome</p>
 </div>
 
 
