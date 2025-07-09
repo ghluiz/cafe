@@ -1,5 +1,3 @@
-<?php $nome = $_SESSION['nome']; 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -142,4 +140,3 @@ font-size:45px;
     
 </body>
 </html>
-?>
