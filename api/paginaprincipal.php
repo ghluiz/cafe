@@ -1,3 +1,5 @@
+<?php $nome = $_SESSION['nome']; 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -113,7 +115,7 @@ font-size:45px;
 <a href= "sucesso.php">
 <button class="buttonstock" >Gestão de Estoque</button>
 </a>
-
+<p>echo $nome</p>
 </div>
 
 
@@ -141,3 +143,4 @@ font-size:45px;
     
 </body>
 </html>
+?>
